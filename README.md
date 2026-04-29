@@ -1,6 +1,6 @@
 # STS2 Mods
 
-A curated collection of quality-of-life and gameplay-enhancing mods for Slay the Spire 2.
+A collection of quality-of-life and gameplay-enhancing mods for Slay the Spire 2.
 
 ---
 
