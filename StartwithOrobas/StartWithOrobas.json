@@ -1,0 +1,11 @@
+{
+  "id": "StartWithOrobas",
+  "name": "Start With Orobas",
+  "author": "WtfShipoopi",
+  "description": "Start each run with Touch of Orobas",
+  "version": "0.2",
+  "has_pck": false,
+  "has_dll": true,
+  "dependencies": [],
+  "affects_gameplay": true
+}

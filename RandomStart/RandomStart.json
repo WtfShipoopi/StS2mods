@@ -1,0 +1,11 @@
+{
+  "id": "RandomStart",
+  "name": "RandomStart",
+  "author": "WtfShipoopi",
+  "description": "Start the game with a random deck each run",
+  "version": "v0.2",
+  "has_pck": false,
+  "has_dll": true,
+  "dependencies": [],
+  "affects_gameplay": true
+}

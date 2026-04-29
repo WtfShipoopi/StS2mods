@@ -1,0 +1,11 @@
+{
+  "id": "StartUpgraded",
+  "name": "Start Upgraded",
+  "author": "WtfShipoopi",
+  "description": "Start your run with your deck being upgraded!",
+  "version": "0.2",
+  "has_pck": false,
+  "has_dll": true,
+  "dependencies": [],
+  "affects_gameplay": true
+}
