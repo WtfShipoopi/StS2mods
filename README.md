@@ -54,7 +54,7 @@ Automatically upgrades your starting deck at the beginning of each run.
 
 Each mod requires the following files to be placed in:
 
-<Slay the Spire 2>/mods/'MODNAME'/
+<Slay the Spire 2>/mods/'ModName'/
 
 | File | Purpose |
 |------|--------|
